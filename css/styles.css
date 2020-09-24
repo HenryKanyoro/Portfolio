@@ -1,0 +1,42 @@
+                    .tap {
+                        background-color: rgba(20, 30, 55, 0.5);
+                    }
+                    
+                    .tap nav ul li {
+                        display: inline-block;
+                        padding: 30px;
+                        text-align: center;
+                    }
+                    
+                    .tap nav ul li a {
+                        text-align: center;
+                        color: white;
+                        font-size: 24px;
+                    }
+                    
+                    .tap nav {
+                        text-align: center;
+                    }
+                    
+                    html {
+                        background-image: url(/images/1_YTWUylQ8_FIstX3OWxixAw.jpeg);
+                        background-repeat: no-repeat;
+                        background-size: cover;
+                    }
+                    
+                    .blue {
+                        color: white;
+                        font-size: 36px;
+                    }
+                    
+                    .photo img {
+                        width: 350px;
+                        height: 600px;
+                        float: right;
+                    }
+                    
+                    .blue a {
+                        background-color: seashell;
+                        padding: 30px;
+                        border-radius: 20px;
+                    }
