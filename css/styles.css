@@ -17,3 +17,9 @@
                     .tap nav {
                         text-align: center;
                     }
+                    
+                    .photo img {
+                        width: 350px;
+                        height: 600px;
+                        float: right;
+                    }
