@@ -17,26 +17,3 @@
                     .tap nav {
                         text-align: center;
                     }
-                    
-                    html {
-                        background-image: url(/images/1_YTWUylQ8_FIstX3OWxixAw.jpeg);
-                        background-repeat: no-repeat;
-                        background-size: cover;
-                    }
-                    
-                    .blue {
-                        color: white;
-                        font-size: 36px;
-                    }
-                    
-                    .photo img {
-                        width: 350px;
-                        height: 600px;
-                        float: right;
-                    }
-                    
-                    .blue a {
-                        background-color: seashell;
-                        padding: 30px;
-                        border-radius: 20px;
-                    }
