@@ -1,5 +1,6 @@
                     .tap {
                         background-color: rgba(20, 30, 55, 0.5);
+                        position: relative;
                     }
                     
                     .tap nav ul li {
@@ -27,6 +28,8 @@
                     .blue {
                         color: white;
                         font-size: 36px;
+                        margin-right: 300px;
+                        margin-bottom: 10%;
                     }
                     
                     .photo img {
@@ -35,8 +38,25 @@
                         float: right;
                     }
                     
-                    .blue a {
+                    .complex .blue a {
                         background-color: seashell;
                         padding: 30px;
                         border-radius: 20px;
+                    }
+                    
+                    .link {
+                        background-color: rgba(20, 30, 55, 0.5);
+                        margin-bottom: 5%;
+                    }
+                    
+                    .link .pic img {
+                        width: 50px;
+                        height: 50px;
+                        margin-left: 700px;
+                    }
+                    
+                    .link .app img {
+                        width: 50px;
+                        height: 50px;
+                        margin-left: 900px;
                     }
