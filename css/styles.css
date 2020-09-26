@@ -156,3 +156,20 @@
                                         .join {
                                             color: white;
                                         }
+                                        
+                                        .screen img {
+                                            width: 500px;
+                                            height: 400px;
+                                        }
+                                        
+                                        .screen {
+                                            padding-top: 250px;
+                                            margin-left: 200px;
+                                            padding-bottom: 250px;
+                                            color: white;
+                                        }
+                                        
+                                        .darasa {
+                                            background-image: url(/images/kyle-johnson-8Gl7Ew-q6D8-unsplash.jpg);
+                                            background-size: cover;
+                                        }
