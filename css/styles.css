@@ -97,6 +97,7 @@
                                             display: flex;
                                             justify-content: space-between;
                                             margin-left: 200px;
+                                            padding-top: 120px;
                                         }
                                         
                                         .life img {
@@ -112,9 +113,26 @@
                                         }
                                         
                                         .tall {
-                                            background-color: rgba(54, 20, 55, 1);
+                                            background-color: rgba(54, 70, 55, 1);
                                         }
                                         
                                         .write {
                                             color: white;
+                                            margin-top: ;
+                                        }
+                                        
+                                        .high {
+                                            font-size: 27px;
+                                            margin-left: 200px;
+                                            padding-top: 120px;
+                                            margin-right: 600px;
+                                            text-align: center;
+                                        }
+                                        
+                                        h6 {
+                                            font-size: 36px;
+                                        }
+                                        
+                                        h5 {
+                                            font-size: 40px;
                                         }
