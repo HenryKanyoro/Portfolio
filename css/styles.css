@@ -125,8 +125,9 @@
                                             font-size: 27px;
                                             margin-left: 200px;
                                             padding-top: 120px;
-                                            margin-right: 600px;
+                                            /* margin-right: 600px; */
                                             text-align: center;
+                                            display: flex;
                                         }
                                         
                                         h6 {
@@ -135,4 +136,12 @@
                                         
                                         h5 {
                                             font-size: 40px;
+                                        }
+                                        
+                                        .high img {
+                                            width: 500px;
+                                            height: 400px;
+                                            margin-right: 20px;
+                                            margin-top: 20px;
+                                            float: right;
                                         }
