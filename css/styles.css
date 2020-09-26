@@ -1,76 +1,120 @@
-                                    .tap {
-                                        background-color: rgba(20, 30, 55, 0.5);
-                                        position: fixed;
-                                        width: 100%;
-                                        height: 120px;
-                                    }
-                                    
-                                    .tap nav ul li {
-                                        display: inline-block;
-                                        padding: 30px;
-                                        text-align: center;
-                                    }
-                                    
-                                    .tap nav ul li a {
-                                        text-align: center;
-                                        color: white;
-                                        font-size: 24px;
-                                    }
-                                    
-                                    .tap nav {
-                                        text-align: center;
-                                    }
-                                    
-                                    .container {
-                                        background-image: url(/images/1_YTWUylQ8_FIstX3OWxixAw.jpeg);
-                                        background-repeat: no-repeat;
-                                        background-size: cover;
-                                    }
-                                    
-                                    .blue {
-                                        color: white;
-                                        font-size: 36px;
-                                        margin-right: 300px;
-                                        margin-bottom: 10%;
-                                    }
-                                    
-                                    .photo img {
-                                        width: 350px;
-                                        height: 600px;
-                                        float: right;
-                                    }
-                                    
-                                    .complex .blue a {
-                                        background-color: seashell;
-                                        padding: 30px;
-                                        border-radius: 20px;
-                                    }
-                                    
-                                    .link {
-                                        background-color: rgba(20, 30, 55, 0.5);
-                                        margin-bottom: 5%;
-                                        display: flex;
-                                        justify-content: center;
-                                    }
-                                    
-                                    .link .pic img {
-                                        width: 50px;
-                                        height: 50px;
-                                    }
-                                    
-                                    .link .app img {
-                                        width: 50px;
-                                        height: 50px;
-                                    }
-                                    
-                                    .link .app {
-                                        margin-left: 10px;
-                                    }
-                                    
-                                    .link .pic {
-                                        margin-right: 10px;
-                                    }
-                                    
-                                    .red {
-                                        padding-top: 220px;
-                                    }
+                                        * {
+                                            margin: 0;
+                                            padding: 0;
+                                        }
+                                        
+                                        .tap {
+                                            background-color: rgba(20, 30, 55, 0.5);
+                                            position: fixed;
+                                            width: 100%;
+                                            height: 120px;
+                                        }
+                                        
+                                        .tap nav ul li {
+                                            display: inline-block;
+                                            padding: 30px;
+                                            text-align: center;
+                                        }
+                                        
+                                        .tap nav ul li a {
+                                            text-align: center;
+                                            color: white;
+                                            font-size: 24px;
+                                        }
+                                        
+                                        .tap nav {
+                                            text-align: center;
+                                        }
+                                        
+                                        .container {
+                                            background-image: url(/images/1_YTWUylQ8_FIstX3OWxixAw.jpeg);
+                                            background-repeat: no-repeat;
+                                            background-size: cover;
+                                        }
+                                        
+                                        .blue {
+                                            color: white;
+                                            font-size: 36px;
+                                            margin-right: 300px;
+                                            margin-bottom: 10%;
+                                        }
+                                        
+                                        .photo img {
+                                            width: 300px;
+                                            height: 500px;
+                                            border-radius: 30px;
+                                            float: right;
+                                        }
+                                        
+                                        .complex .blue a {
+                                            background-color: seashell;
+                                            padding: 6px;
+                                            border-radius: 20px;
+                                        }
+                                        
+                                        .link {
+                                            margin-bottom: 5%;
+                                            display: flex;
+                                            justify-content: center;
+                                        }
+                                        
+                                        .link .pic img {
+                                            width: 50px;
+                                            height: 50px;
+                                        }
+                                        
+                                        .link .app img {
+                                            width: 50px;
+                                            height: 50px;
+                                        }
+                                        
+                                        .link .app {
+                                            margin-left: 10px;
+                                        }
+                                        
+                                        .link .pic {
+                                            margin-right: 10px;
+                                        }
+                                        
+                                        .red {
+                                            padding-top: 220px;
+                                            padding-left: 250px;
+                                        }
+                                        
+                                        .sidebar {
+                                            top: 120px;
+                                            left: 0;
+                                            width: 155px;
+                                            height: 100vh;
+                                            background: rgba(20, 30, 55, 0.5);
+                                            position: fixed;
+                                        }
+                                        
+                                        .life {
+                                            font-size: 27px;
+                                            /* padding-left: 250px; */
+                                            /* padding-right: 650px; */
+                                            display: flex;
+                                            justify-content: space-between;
+                                            margin-left: 200px;
+                                        }
+                                        
+                                        .life img {
+                                            width: 500px;
+                                            height: 400px;
+                                            margin-right: 20px;
+                                            margin-top: 20px;
+                                        }
+                                        
+                                        .life {
+                                            text-align: center;
+                                            flex-direction: row;
+                                        }
+                                        
+                                        .tall {
+                                            background-color: rgba(54, 20, 55, 1);
+                                        }
+                                        
+                                        .write {
+                                            color: white;
+                                        }
