@@ -204,3 +204,8 @@
                                             .sick {
                                                 text-align: center;
                                             }
+                                            
+                                            span {
+                                                font-style: italic;
+                                                font-size: 45px;
+                                            }
