@@ -170,7 +170,7 @@
                                             }
                                             
                                             .darasa {
-                                                background-image: url(../images/m-liisanantti-N1X5C0qqcwQ-unsplash.jpg);
+                                                background-image: url(../images/adrien-olichon-RCAhiGJsUUE-unsplash.jpg);
                                                 background-size: cover;
                                             }
                                             
@@ -193,4 +193,14 @@
                                             
                                             .conta img a {
                                                 margin-top: 100px;
+                                            }
+                                            
+                                            .projects {
+                                                display: flex;
+                                                justify-content: space-evenly;
+                                                font-size: 25px;
+                                            }
+                                            
+                                            .sick {
+                                                text-align: center;
                                             }
